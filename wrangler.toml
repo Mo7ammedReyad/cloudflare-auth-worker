@@ -1,7 +1,8 @@
 name = "auth-worker"
 main = "src/index.ts"
 compatibility_date = "2025-07-29"
-node_compat = true
+compatibility_flags = ["nodejs_compat"]
+
 
 [vars]
 FIREBASE_URL = "https://zylos-test-default-rtdb.firebaseio.com"
