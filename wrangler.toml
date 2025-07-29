@@ -1,0 +1,8 @@
+name = "auth-worker"
+main = "src/index.ts"
+compatibility_date = "2025-07-29"
+node_compat = true
+
+[vars]
+FIREBASE_URL = "https://zylos-test-default-rtdb.firebaseio.com"
+FIREBASE_SECRET = "N2FdqX2n0z4zhiSKp5nq2Q8MXr7UZ9fZRY2hPxlJ"
